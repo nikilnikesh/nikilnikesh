@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikil Nikesh</h1>
+<h1 align="center">Hi 👋, I'm Nikil Nikesh</h1><img align="right"alt="Coding"width="100"src="https://chrisdillustration.com/mummy-walk-cycle-gif-animation">
 <h3 align="center">A Programmer from Sri Lanka.😃</h3>
 <img align="right"alt="Coding"width="800"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
