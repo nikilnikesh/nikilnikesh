@@ -12,11 +12,11 @@
 
 - ⚡ Fun-Fact: **I'm Still Student, and still Learning C++ & JAVASCRIPT😎 😅;**
 
-- 👯 I’m looking to collaborate on : [GITHUB](https://github.com/nikilnikesh)
+- 👯 I’m looking to collaborate on : [GITHUB]([https://github.com/nikilnikesh](https://github.com/nikilnikesh/nikilnikesh))
 
-- 👨‍💻 All of my projects are available at github [https://github.com/nikilnikesh](https://github.com/nikilnikesh)
+- 👨‍💻 All of my projects are available at github [[https://github.com/nikilnikesh](https://github.com/nikilnikesh/nikilnikesh)]
 
-- 📫 How to reach me [https://github.com/nikilnikesh](https://github.com/nikilnikesh)
+- 📫 How to reach me [[https://github.com/nikilnikesh](https://github.com/nikilnikesh/nikilnikesh)]
 
 - 🤔 I’m looking for help : **FOR ME**
 
