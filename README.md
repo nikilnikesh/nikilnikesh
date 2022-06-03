@@ -31,7 +31,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikilnikesh&show_icons=true&locale=en" alt="nikilnikesh" /></p>
 
-<img align="right"alt="Coding"width="400"src="https://ps.w.org/seers-cookie-consent-banner-privacy-policy/assets/icon-256x256.gif?rev=2326495 ">
+<img align="right"alt="Coding"width="800"src="https://ps.w.org/seers-cookie-consent-banner-privacy-policy/assets/icon-256x256.gif">
+
 
 @@ -0,0 +1,21 @@
 # Security Policy of NIKILNIKESH'S GITHUB
