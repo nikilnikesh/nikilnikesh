@@ -24,7 +24,7 @@
 <p align="left">
 </p>
 
-<img align="right"alt="Coding"width="800"src="https://ps.w.org/seers-cookie-consent-banner-privacy-policy/assets/icon-256x256.gif">
+<img align="right"alt="Coding"width=200"src="https://ps.w.org/seers-cookie-consent-banner-privacy-policy/assets/icon-256x256.gif">
 
 
 <h3 align="left">Languages and Tools:</h3>
