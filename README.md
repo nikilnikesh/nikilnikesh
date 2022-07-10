@@ -8,9 +8,9 @@
 
 - 🔭 I live in **Sri Lanka**
 
-- 🌱 I’m currently learning **C++,JSON,JAVASCRIPT & HTML**
+- 🌱 I’m currently learning **JSON & HTML**
 
-- ⚡ Fun-Fact: **I'm Still Student, and still Learning C++ & JAVASCRIPT😎 😅;**
+- ⚡ Fun-Fact: **I'm Still Student, and still Learning JAVASCRIPT😎 😅;**
 
 - 👯 I’m looking to collaborate on : [GITHUB]([https://github.com/nikilnikesh](https://github.com/nikilnikesh/nikilnikesh))
 
